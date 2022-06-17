@@ -1,1 +1,2 @@
 # DigitPredict
+Günümüzde makine öğrenmesi ve derin öğrenme çalışmalarının kapsamı her geçen gün artmaktadır.El yazısı tanıma ,bu çalışma alanı için günlük hayattaki örneklerden biridir.Dijital ortamlarda veri depolama ve kişilerin notlarını digital ortamda gibi hatta doğrudan digital ortamda not almaları bir zorunluk haline gelmiştir.DigitPredict Projesi bu alanda geliştirilen uygulamalardan biri olmuştur.
